@@ -1,0 +1,381 @@
+Transaction ID,Date,Expense Category,Vendor,Amount,Payment Method,Description,Department/Business Unit
+TXN0001,2026-02-18,Equipment,Hardware Hub,15794.83,Card,Business equipment purchase,Sales
+TXN0002,2026-08-15,Office Supplies,Paper Point,2818.33,Cash,Routine office supplies,IT
+TXN0003,2026-03-18,Software,Productivity Apps,16040.54,Bank Transfer,Business software subscription,Finance
+TXN0004,2026-06-01,Meals,Restaurant One,1875.97,UPI,Business meal expense,Sales
+TXN0005,2026-06-09,Marketing,PrintWorks,24292.62,Cash,Business marketing expense,Administration
+TXN0006,2026-03-11,Travel,Metro Cabs,10237.28,Cash,Business travel expense,IT
+TXN0007,2026-02-02,Meals,Restaurant One,1333.39,Card,Business meal expense,Marketing
+TXN0008,2026-08-07,Travel,Hotel Central,2903.33,Card,Business travel expense,Marketing
+TXN0009,2026-02-05,Utilities,Telecom Services,17370.18,UPI,Monthly business utility expense,Marketing
+TXN0010,2026-06-08,Travel,City Flights,6949.46,Bank Transfer,Business travel expense,Marketing
+TXN0011,2026-05-22,Equipment,Office Systems,3605.4,Bank Transfer,Business equipment purchase,Sales
+TXN0012,2026-01-21,Equipment,Office Systems,32616.24,UPI,Business equipment purchase,Marketing
+TXN0013,2026-04-18,Maintenance,Facility Care,11525.74,Bank Transfer,Routine maintenance expense,Operations
+TXN0014,2026-01-22,Equipment,Hardware Hub,25606.44,Card,Business equipment purchase,Marketing
+TXN0015,2026-05-28,Software,Productivity Apps,15453.1,Bank Transfer,Business software subscription,IT
+TXN0016,2026-07-26,Marketing,PrintWorks,14645.94,Cash,Business marketing expense,Marketing
+TXN0017,2026-06-05,Travel,Hotel Central,15723.6,UPI,Business travel expense,Sales
+TXN0018,2026-07-08,Equipment,Office Systems,17074.08,Cash,Business equipment purchase,Operations
+TXN0019,2026-05-10,Meals,Cafe Business,1301.58,UPI,Business meal expense,Sales
+TXN0020,2026-06-24,Equipment,Office Systems,32712.12,Cash,Business equipment purchase,Operations
+TXN0021,2026-06-29,Office Supplies,Tech Supplies,4895.99,Cash,Routine office supplies,Sales
+TXN0022,2026-02-03,Travel,ABC Travels,9912.84,Bank Transfer,Business travel expense,Finance
+TXN0023,2026-02-14,Travel,Hotel Central,2819.16,Bank Transfer,Business travel expense,Finance
+TXN0024,2026-02-12,Software,Dev Tools Inc,6834.82,Cash,Business software subscription,Marketing
+TXN0025,2026-09-08,Marketing,Promo Studio,12779.27,UPI,Business marketing expense,IT
+TXN0026,2026-06-15,Maintenance,Maintenance Pro,8965.45,Card,Routine maintenance expense,Sales
+TXN0027,2026-06-06,Marketing,Digital Ads Co,15363.64,Card,Business marketing expense,Administration
+TXN0028,2026-09-12,Maintenance,Repair Works,5241.28,Card,Routine maintenance expense,Operations
+TXN0029,2026-04-02,Equipment,Hardware Hub,21195.91,Bank Transfer,Business equipment purchase,Marketing
+TXN0030,2026-07-24,Marketing,Digital Ads Co,15076.55,Card,Business marketing expense,Marketing
+TXN0031,2026-05-03,Maintenance,Facility Care,7146.06,UPI,Routine maintenance expense,Finance
+TXN0032,2026-06-07,Software,CloudSoft,9536.39,Card,Business software subscription,Administration
+TXN0033,2026-04-28,Software,CloudSoft,14644.25,Card,Business software subscription,Sales
+TXN0034,2026-04-19,Maintenance,FixIt Services,5853.65,Bank Transfer,Routine maintenance expense,IT
+TXN0035,2026-04-14,Maintenance,Maintenance Pro,3227.33,Card,Routine maintenance expense,IT
+TXN0036,2026-06-13,Office Supplies,OfficeMart,4130.33,UPI,Routine office supplies,Sales
+TXN0037,2026-09-05,Meals,Restaurant One,2462.73,Card,Business meal expense,Sales
+TXN0038,2026-06-14,Office Supplies,OfficeMart,3119.27,Cash,Routine office supplies,Operations
+TXN0039,2026-06-05,Office Supplies,Tech Supplies,797.48,Bank Transfer,Routine office supplies,Operations
+TXN0040,2026-07-08,Software,Productivity Apps,15637.2,Bank Transfer,Business software subscription,Sales
+TXN0041,2026-09-25,Utilities,City Water,6922.15,UPI,Monthly business utility expense,Operations
+TXN0042,2026-06-16,Software,Business Software,10064.57,Cash,Business software subscription,Finance
+TXN0043,2026-07-15,Software,Business Software,17135.61,UPI,Business software subscription,Finance
+TXN0044,2026-02-02,Marketing,Promo Studio,16937.33,Bank Transfer,Business marketing expense,Marketing
+TXN0045,2026-08-28,Maintenance,Maintenance Pro,1317.46,UPI,Routine maintenance expense,Finance
+TXN0046,2026-09-22,Software,Productivity Apps,3340.89,UPI,Business software subscription,Sales
+TXN0047,2026-05-13,Utilities,Power Company,13115.48,UPI,Monthly business utility expense,Administration
+TXN0048,2026-01-25,Maintenance,Repair Works,8377.54,Card,Routine maintenance expense,Sales
+TXN0049,2026-04-12,Maintenance,Maintenance Pro,11167.68,Card,Routine maintenance expense,Sales
+TXN0050,2026-01-04,Marketing,Media House,19468.9,Bank Transfer,Business marketing expense,Sales
+TXN0051,2026-02-01,Equipment,TechWorld,9601.86,Cash,Business equipment purchase,Marketing
+TXN0052,2026-01-25,Travel,Metro Cabs,16917.23,Bank Transfer,Business travel expense,Administration
+TXN0053,2026-02-14,Maintenance,Maintenance Pro,7187.33,Cash,Routine maintenance expense,IT
+TXN0054,2026-06-21,Software,Productivity Apps,4467.25,Cash,Business software subscription,Marketing
+TXN0055,2026-06-29,Meals,Food Court,1510.12,Cash,Business meal expense,Administration
+TXN0056,2026-04-17,Software,CloudSoft,4674.98,Card,Business software subscription,Finance
+TXN0057,2026-09-17,Meals,Food Court,1148.6,UPI,Business meal expense,Sales
+TXN0058,2026-07-30,Equipment,Office Systems,27349.82,Bank Transfer,Business equipment purchase,IT
+TXN0059,2026-03-24,Meals,Food Court,2853.24,Bank Transfer,Business meal expense,Marketing
+TXN0060,2026-08-19,Marketing,PrintWorks,15570.79,UPI,Business marketing expense,Sales
+TXN0061,2026-09-05,Travel,Metro Cabs,3128.88,UPI,Business travel expense,Administration
+TXN0062,2026-06-15,Equipment,TechWorld,14543.74,UPI,Business equipment purchase,Marketing
+TXN0063,2026-07-11,Utilities,NetConnect,13142.18,UPI,Monthly business utility expense,IT
+TXN0064,2026-05-31,Marketing,PrintWorks,9402.65,Card,Business marketing expense,Finance
+TXN0065,2026-09-20,Marketing,Promo Studio,21771.97,UPI,Business marketing expense,Marketing
+TXN0066,2026-02-27,Software,CloudSoft,14078.51,Bank Transfer,Business software subscription,Marketing
+TXN0067,2026-08-12,Software,Dev Tools Inc,9200.73,Card,Business software subscription,Operations
+TXN0068,2026-08-03,Travel,City Flights,17586.05,UPI,Business travel expense,Operations
+TXN0069,2026-04-24,Travel,ABC Travels,7998.21,Cash,Business travel expense,IT
+TXN0070,2026-02-28,Equipment,Hardware Hub,28486.17,UPI,Business equipment purchase,Finance
+TXN0071,2026-03-25,Maintenance,Repair Works,8778.85,Bank Transfer,Routine maintenance expense,Administration
+TXN0072,2026-07-29,Meals,Catering Plus,2861.69,UPI,Business meal expense,IT
+TXN0073,2026-07-28,Travel,Metro Cabs,5263.92,Cash,Business travel expense,Sales
+TXN0074,2026-07-14,Marketing,PrintWorks,11721.17,Card,Business marketing expense,Sales
+TXN0075,2026-07-17,Marketing,Digital Ads Co,19447.93,UPI,Business marketing expense,Administration
+TXN0076,2026-09-08,Software,Productivity Apps,6155.02,Bank Transfer,Business software subscription,Marketing
+TXN0077,2026-02-23,Software,Dev Tools Inc,4513.87,UPI,Business software subscription,Sales
+TXN0078,2026-03-11,Office Supplies,OfficeMart,4667.21,UPI,Routine office supplies,Administration
+TXN0079,2026-01-31,Marketing,Media House,19309.44,Cash,Business marketing expense,IT
+TXN0080,2026-04-20,Software,Productivity Apps,6072.3,Bank Transfer,Business software subscription,Administration
+TXN0081,2026-08-01,Maintenance,Facility Care,10706.69,Cash,Routine maintenance expense,Sales
+TXN0082,2026-02-28,Software,Business Software,12959.08,Cash,Business software subscription,Sales
+TXN0083,2026-02-23,Maintenance,FixIt Services,9972.83,Cash,Routine maintenance expense,Finance
+TXN0084,2026-03-30,Office Supplies,OfficeMart,414.56,Bank Transfer,Routine office supplies,Finance
+TXN0085,2026-02-17,Equipment,Hardware Hub,31719.67,Bank Transfer,Business equipment purchase,Operations
+TXN0086,2026-03-25,Office Supplies,Tech Supplies,3570.5,Card,Routine office supplies,Finance
+TXN0087,2026-07-21,Marketing,PrintWorks,20174.53,UPI,Business marketing expense,Finance
+TXN0088,2026-02-03,Maintenance,FixIt Services,7789.52,Card,Routine maintenance expense,Marketing
+TXN0089,2026-08-10,Utilities,Telecom Services,9925.02,Cash,Monthly business utility expense,Marketing
+TXN0090,2026-03-23,Utilities,NetConnect,15094.67,Card,Monthly business utility expense,Administration
+TXN0091,2026-04-06,Meals,Food Court,3943.77,Card,Business meal expense,Sales
+TXN0092,2026-08-27,Office Supplies,OfficeMart,4541.11,UPI,Routine office supplies,Operations
+TXN0093,2026-01-07,Travel,Metro Cabs,16108.26,Card,Business travel expense,IT
+TXN0094,2026-03-30,Travel,Metro Cabs,10225.98,UPI,Business travel expense,Administration
+TXN0095,2026-03-27,Software,Productivity Apps,10780.85,Cash,Business software subscription,Finance
+TXN0096,2026-01-31,Office Supplies,Paper Point,642.41,Card,Routine office supplies,Marketing
+TXN0097,2026-04-20,Meals,Food Court,2996.81,Cash,Business meal expense,Operations
+TXN0098,2026-08-12,Travel,ABC Travels,15736.06,Cash,Business travel expense,Marketing
+TXN0099,2026-09-03,Travel,Hotel Central,6019.96,Cash,Business travel expense,Finance
+TXN0100,2026-03-25,Maintenance,Facility Care,1625.19,Cash,Routine maintenance expense,Finance
+TXN0101,2026-02-07,Utilities,City Water,16616.5,UPI,Monthly business utility expense,Administration
+TXN0102,2026-04-12,Maintenance,Facility Care,4900.37,UPI,Routine maintenance expense,Administration
+TXN0103,2026-04-19,Office Supplies,XYZ Stationery,1889.23,Bank Transfer,Routine office supplies,Marketing
+TXN0104,2026-01-12,Marketing,Digital Ads Co,18489.66,Card,Business marketing expense,Finance
+TXN0105,2026-04-28,Maintenance,Maintenance Pro,11300.64,Bank Transfer,Routine maintenance expense,Finance
+TXN0106,2026-01-11,Maintenance,Maintenance Pro,4867.72,Bank Transfer,Routine maintenance expense,Finance
+TXN0107,2026-04-27,Travel,Metro Cabs,2690.61,UPI,Business travel expense,Sales
+TXN0108,2026-04-03,Travel,City Flights,17370.2,Bank Transfer,Business travel expense,Marketing
+TXN0109,2026-06-12,Meals,Catering Plus,2107.03,Cash,Business meal expense,IT
+TXN0110,2026-01-14,Maintenance,Maintenance Pro,7560.89,Bank Transfer,Routine maintenance expense,Marketing
+TXN0111,2026-01-24,Travel,City Flights,4658.12,UPI,Business travel expense,Administration
+TXN0112,2026-06-20,Marketing,PrintWorks,19171.57,Card,Business marketing expense,Marketing
+TXN0113,2026-07-09,Software,Dev Tools Inc,17567.0,Bank Transfer,Business software subscription,Sales
+TXN0114,2026-04-16,Travel,Metro Cabs,11511.68,Card,Business travel expense,Finance
+TXN0115,2026-02-14,Meals,Restaurant One,892.0,Card,Business meal expense,IT
+TXN0116,2026-01-15,Marketing,PrintWorks,12488.2,UPI,Business marketing expense,Finance
+TXN0117,2026-07-15,Office Supplies,OfficeMart,3567.4,UPI,Routine office supplies,Operations
+TXN0118,2026-07-24,Marketing,PrintWorks,18504.8,Bank Transfer,Business marketing expense,Marketing
+TXN0119,2026-07-15,Equipment,TechWorld,33062.06,Card,Business equipment purchase,Administration
+TXN0120,2026-03-27,Office Supplies,Paper Point,4390.37,UPI,Routine office supplies,Finance
+TXN0121,2026-01-16,Travel,City Flights,1943.76,Cash,Business travel expense,IT
+TXN0122,2026-03-08,Maintenance,FixIt Services,2440.49,UPI,Routine maintenance expense,Operations
+TXN0123,2026-08-27,Travel,Metro Cabs,14273.7,UPI,Business travel expense,Finance
+TXN0124,2026-02-17,Utilities,Telecom Services,7152.03,Bank Transfer,Monthly business utility expense,Operations
+TXN0125,2026-02-10,Marketing,Digital Ads Co,4537.49,Bank Transfer,Business marketing expense,Operations
+TXN0126,2026-04-15,Marketing,PrintWorks,5952.9,Cash,Business marketing expense,Operations
+TXN0127,2026-07-13,Utilities,City Water,4173.48,UPI,Monthly business utility expense,Marketing
+TXN0128,2026-06-02,Maintenance,Maintenance Pro,11803.58,Card,Routine maintenance expense,Administration
+TXN0129,2026-01-10,Maintenance,Maintenance Pro,7052.14,Bank Transfer,Routine maintenance expense,IT
+TXN0130,2026-06-17,Marketing,PrintWorks,8004.15,Bank Transfer,Business marketing expense,Sales
+TXN0131,2026-05-25,Equipment,Hardware Hub,18309.52,UPI,Business equipment purchase,Administration
+TXN0132,2026-05-03,Utilities,NetConnect,5780.7,Card,Monthly business utility expense,Marketing
+TXN0133,2026-01-15,Meals,Catering Plus,316.14,UPI,Business meal expense,Administration
+TXN0134,2026-04-05,Travel,Metro Cabs,4437.3,Bank Transfer,Business travel expense,Administration
+TXN0135,2026-01-17,Meals,Cafe Business,2596.65,Card,Business meal expense,IT
+TXN0136,2026-06-16,Marketing,Digital Ads Co,22732.44,Cash,Business marketing expense,Operations
+TXN0137,2026-01-26,Software,CloudSoft,15987.13,Bank Transfer,Business software subscription,Sales
+TXN0138,2026-04-01,Office Supplies,XYZ Stationery,3003.87,UPI,Routine office supplies,Sales
+TXN0139,2026-04-10,Equipment,TechWorld,8761.32,Bank Transfer,Business equipment purchase,Administration
+TXN0140,2026-08-25,Marketing,Digital Ads Co,5642.13,Card,Business marketing expense,Finance
+TXN0141,2026-08-22,Maintenance,Facility Care,7676.8,UPI,Routine maintenance expense,IT
+TXN0142,2026-07-29,Travel,Hotel Central,14403.48,Card,Business travel expense,IT
+TXN0143,2026-05-27,Marketing,PrintWorks,12454.55,Card,Business marketing expense,Administration
+TXN0144,2026-08-22,Marketing,Digital Ads Co,15019.46,Card,Business marketing expense,Sales
+TXN0145,2026-05-21,Meals,Food Court,1450.96,Cash,Business meal expense,IT
+TXN0146,2026-01-07,Marketing,Promo Studio,8422.18,Card,Business marketing expense,Sales
+TXN0147,2026-03-01,Utilities,Telecom Services,8129.99,Cash,Monthly business utility expense,Sales
+TXN0148,2026-05-13,Maintenance,Repair Works,7670.9,Cash,Routine maintenance expense,Operations
+TXN0149,2026-02-25,Travel,ABC Travels,9881.94,Card,Business travel expense,Administration
+TXN0150,2026-09-24,Office Supplies,Tech Supplies,765.54,Card,Routine office supplies,IT
+TXN0151,2026-03-26,Utilities,Telecom Services,11354.25,Cash,Monthly business utility expense,Administration
+TXN0152,2026-03-25,Equipment,Hardware Hub,29963.59,UPI,Business equipment purchase,Sales
+TXN0153,2026-02-24,Utilities,NetConnect,5254.55,Bank Transfer,Monthly business utility expense,Administration
+TXN0154,2026-02-13,Meals,Catering Plus,2694.07,Bank Transfer,Business meal expense,Marketing
+TXN0155,2026-01-06,Utilities,NetConnect,18269.76,Card,Monthly business utility expense,IT
+TXN0156,2026-03-24,Maintenance,FixIt Services,3090.24,Bank Transfer,Routine maintenance expense,Sales
+TXN0157,2026-03-02,Office Supplies,Tech Supplies,3302.52,UPI,Routine office supplies,Finance
+TXN0158,2026-02-06,Software,CloudSoft,7726.63,UPI,Business software subscription,IT
+TXN0159,2026-03-27,Office Supplies,OfficeMart,4070.9,Bank Transfer,Routine office supplies,Operations
+TXN0160,2026-09-01,Office Supplies,OfficeMart,3257.27,UPI,Routine office supplies,Sales
+TXN0161,2026-04-14,Maintenance,FixIt Services,1725.65,UPI,Routine maintenance expense,Marketing
+TXN0162,2026-01-08,Equipment,IT Solutions,16468.29,Bank Transfer,Business equipment purchase,Finance
+TXN0163,2026-04-16,Maintenance,FixIt Services,3186.19,Cash,Routine maintenance expense,Operations
+TXN0164,2026-03-25,Office Supplies,OfficeMart,3887.08,Cash,Routine office supplies,IT
+TXN0165,2026-06-04,Travel,Metro Cabs,7892.5,Card,Business travel expense,Operations
+TXN0166,2026-06-25,Meals,Cafe Business,3814.46,Bank Transfer,Business meal expense,Marketing
+TXN0167,2026-04-11,Office Supplies,Paper Point,305.5,Card,Routine office supplies,Operations
+TXN0168,2026-01-26,Meals,Food Court,634.35,Bank Transfer,Business meal expense,IT
+TXN0169,2026-09-12,Equipment,Office Systems,6599.67,Card,Business equipment purchase,IT
+TXN0170,2026-06-15,Office Supplies,Tech Supplies,2387.18,UPI,Routine office supplies,IT
+TXN0171,2026-04-21,Maintenance,Repair Works,5040.14,Bank Transfer,Routine maintenance expense,Finance
+TXN0172,2026-05-27,Marketing,Promo Studio,12871.6,Card,Business marketing expense,Sales
+TXN0173,2026-07-15,Office Supplies,Paper Point,3597.06,UPI,Routine office supplies,Operations
+TXN0174,2026-04-22,Utilities,City Water,17311.51,Bank Transfer,Monthly business utility expense,Marketing
+TXN0175,2026-06-23,Equipment,Hardware Hub,4309.68,Bank Transfer,Business equipment purchase,IT
+TXN0176,2026-02-28,Marketing,Media House,9804.31,Bank Transfer,Business marketing expense,Administration
+TXN0177,2026-08-24,Meals,Catering Plus,2922.96,Cash,Business meal expense,IT
+TXN0178,2026-03-11,Meals,Restaurant One,979.71,Cash,Business meal expense,Marketing
+TXN0179,2026-01-15,Equipment,Hardware Hub,32692.64,Bank Transfer,Business equipment purchase,Administration
+TXN0180,2026-07-07,Utilities,Telecom Services,6921.37,Cash,Monthly business utility expense,Sales
+TXN0181,2026-05-10,Meals,Restaurant One,1502.06,Card,Business meal expense,Finance
+TXN0182,2026-05-08,Utilities,NetConnect,13038.21,UPI,Monthly business utility expense,IT
+TXN0183,2026-07-28,Software,Dev Tools Inc,9823.14,UPI,Business software subscription,Marketing
+TXN0184,2026-01-14,Marketing,PrintWorks,21582.02,UPI,Business marketing expense,Administration
+TXN0185,2026-04-22,Software,CloudSoft,13965.85,Bank Transfer,Business software subscription,Administration
+TXN0186,2026-09-09,Equipment,Hardware Hub,22218.41,UPI,Business equipment purchase,IT
+TXN0187,2026-02-08,Meals,Food Court,1158.15,Bank Transfer,Business meal expense,Finance
+TXN0188,2026-06-26,Travel,ABC Travels,13555.17,Bank Transfer,Business travel expense,Operations
+TXN0189,2026-05-06,Marketing,Digital Ads Co,18428.66,UPI,Business marketing expense,Operations
+TXN0190,2026-08-07,Software,Dev Tools Inc,17659.76,Bank Transfer,Business software subscription,Finance
+TXN0191,2026-09-02,Maintenance,Repair Works,6665.55,Bank Transfer,Routine maintenance expense,Administration
+TXN0192,2026-02-01,Travel,ABC Travels,3503.39,Cash,Business travel expense,Administration
+TXN0193,2026-08-07,Meals,Food Court,422.59,Cash,Business meal expense,Administration
+TXN0194,2026-01-21,Marketing,PrintWorks,2279.75,Bank Transfer,Business marketing expense,IT
+TXN0195,2026-07-28,Travel,ABC Travels,7911.85,UPI,Business travel expense,Administration
+TXN0196,2026-03-05,Marketing,Promo Studio,10648.51,Cash,Business marketing expense,Administration
+TXN0197,2026-08-24,Utilities,Power Company,3232.27,Cash,Monthly business utility expense,Administration
+TXN0198,2026-07-11,Meals,Cafe Business,866.42,Bank Transfer,Business meal expense,IT
+TXN0199,2026-01-05,Utilities,NetConnect,4913.7,UPI,Monthly business utility expense,Administration
+TXN0200,2026-05-20,Marketing,Digital Ads Co,15518.07,Bank Transfer,Business marketing expense,Operations
+TXN0201,2026-03-05,Software,Business Software,10356.78,Card,Business software subscription,Finance
+TXN0202,2026-04-20,Travel,ABC Travels,16919.96,Card,Business travel expense,Marketing
+TXN0203,2026-06-07,Travel,Metro Cabs,3454.77,Card,Business travel expense,Operations
+TXN0204,2026-06-04,Utilities,City Water,11282.64,Bank Transfer,Monthly business utility expense,IT
+TXN0205,2026-04-24,Maintenance,Facility Care,7432.04,UPI,Routine maintenance expense,Finance
+TXN0206,2026-06-01,Office Supplies,Paper Point,3562.68,Bank Transfer,Routine office supplies,Finance
+TXN0207,2026-02-28,Utilities,Telecom Services,19103.35,UPI,Monthly business utility expense,Marketing
+TXN0208,2026-01-20,Utilities,NetConnect,20204.81,UPI,Monthly business utility expense,Finance
+TXN0209,2026-04-07,Office Supplies,Paper Point,3309.24,Bank Transfer,Routine office supplies,IT
+TXN0210,2026-05-14,Utilities,Power Company,14862.95,UPI,Monthly business utility expense,IT
+TXN0211,2026-04-21,Equipment,Office Systems,11148.56,Cash,Business equipment purchase,IT
+TXN0212,2026-07-22,Equipment,IT Solutions,21096.14,Card,Business equipment purchase,Administration
+TXN0213,2026-08-08,Meals,Catering Plus,3906.08,Cash,Business meal expense,Finance
+TXN0214,2026-03-11,Office Supplies,Paper Point,635.27,Bank Transfer,Routine office supplies,Administration
+TXN0215,2026-03-13,Travel,City Flights,13120.7,Card,Business travel expense,Marketing
+TXN0216,2026-01-06,Maintenance,Facility Care,4649.8,Bank Transfer,Routine maintenance expense,IT
+TXN0217,2026-07-28,Travel,Hotel Central,11682.15,UPI,Business travel expense,Finance
+TXN0218,2026-09-29,Meals,Cafe Business,532.82,Bank Transfer,Business meal expense,Operations
+TXN0219,2026-07-07,Equipment,Hardware Hub,26989.37,Card,Business equipment purchase,Sales
+TXN0220,2026-02-15,Software,Productivity Apps,11740.15,Cash,Business software subscription,IT
+TXN0221,2026-01-03,Travel,Metro Cabs,3745.78,Cash,Business travel expense,Finance
+TXN0222,2026-09-03,Marketing,Promo Studio,4939.37,UPI,Business marketing expense,Sales
+TXN0223,2026-03-12,Maintenance,FixIt Services,9303.38,UPI,Routine maintenance expense,Administration
+TXN0224,2026-05-17,Office Supplies,Paper Point,4595.27,Cash,Routine office supplies,Finance
+TXN0225,2026-01-18,Meals,Food Court,1954.96,Card,Business meal expense,Finance
+TXN0226,2026-03-20,Meals,Catering Plus,1171.32,Cash,Business meal expense,Administration
+TXN0227,2026-04-24,Travel,City Flights,4687.85,Cash,Business travel expense,Operations
+TXN0228,2026-07-24,Office Supplies,Tech Supplies,470.06,Card,Routine office supplies,Administration
+TXN0229,2026-04-23,Marketing,Promo Studio,12005.26,Cash,Business marketing expense,Sales
+TXN0230,2026-04-26,Travel,ABC Travels,13507.51,Bank Transfer,Business travel expense,Administration
+TXN0231,2026-01-17,Meals,Catering Plus,1081.03,Card,Business meal expense,IT
+TXN0232,2026-07-23,Office Supplies,Tech Supplies,3076.78,UPI,Routine office supplies,Marketing
+TXN0233,2026-02-16,Travel,ABC Travels,15403.77,Bank Transfer,Business travel expense,Operations
+TXN0234,2026-08-26,Marketing,Digital Ads Co,5910.65,UPI,Business marketing expense,Sales
+TXN0235,2026-08-20,Office Supplies,Tech Supplies,336.26,UPI,Routine office supplies,IT
+TXN0236,2026-08-08,Maintenance,FixIt Services,10244.88,Card,Routine maintenance expense,Finance
+TXN0237,2026-06-25,Office Supplies,Tech Supplies,4319.01,Cash,Routine office supplies,IT
+TXN0238,2026-08-02,Maintenance,Facility Care,9872.02,UPI,Routine maintenance expense,Operations
+TXN0239,2026-01-09,Travel,Metro Cabs,15512.99,Card,Business travel expense,Operations
+TXN0240,2026-05-17,Meals,Restaurant One,362.57,UPI,Business meal expense,Sales
+TXN0241,2026-07-21,Meals,Cafe Business,2781.23,UPI,Business meal expense,Sales
+TXN0242,2026-05-05,Office Supplies,Paper Point,4996.94,Bank Transfer,Routine office supplies,Finance
+TXN0243,2026-04-08,Meals,Food Court,2290.72,Cash,Business meal expense,Administration
+TXN0244,2026-05-22,Maintenance,Facility Care,2833.73,Bank Transfer,Routine maintenance expense,Administration
+TXN0245,2026-07-29,Maintenance,Facility Care,10727.78,UPI,Routine maintenance expense,Operations
+TXN0246,2026-02-27,Utilities,NetConnect,6867.14,UPI,Monthly business utility expense,Finance
+TXN0247,2026-04-14,Travel,Hotel Central,10305.72,Card,Business travel expense,Finance
+TXN0248,2026-09-01,Travel,City Flights,11650.79,Bank Transfer,Business travel expense,Sales
+TXN0249,2026-06-11,Maintenance,Facility Care,4112.32,UPI,Routine maintenance expense,Operations
+TXN0250,2026-04-22,Marketing,Media House,16070.26,Cash,Business marketing expense,Sales
+TXN0251,2026-05-21,Travel,City Flights,5922.02,Card,Business travel expense,Sales
+TXN0252,2026-01-08,Travel,City Flights,15219.98,Card,Business travel expense,Finance
+TXN0253,2026-06-17,Software,CloudSoft,4865.1,UPI,Business software subscription,IT
+TXN0254,2026-03-03,Maintenance,Maintenance Pro,3154.81,Cash,Routine maintenance expense,Sales
+TXN0255,2026-02-19,Meals,Catering Plus,427.46,UPI,Business meal expense,Finance
+TXN0256,2026-03-21,Meals,Cafe Business,3954.16,Cash,Business meal expense,Administration
+TXN0257,2026-08-27,Utilities,City Water,9781.84,Card,Monthly business utility expense,Finance
+TXN0258,2026-02-01,Marketing,PrintWorks,9441.91,UPI,Business marketing expense,Operations
+TXN0259,2026-09-27,Travel,ABC Travels,13681.69,UPI,Business travel expense,Marketing
+TXN0260,2026-08-01,Marketing,Digital Ads Co,24120.17,Cash,Business marketing expense,Finance
+TXN0261,2026-08-31,Office Supplies,OfficeMart,4332.65,Bank Transfer,Routine office supplies,Sales
+TXN0262,2026-05-12,Office Supplies,Tech Supplies,2976.2,UPI,Routine office supplies,Finance
+TXN0263,2026-01-04,Marketing,Promo Studio,18927.05,UPI,Business marketing expense,Marketing
+TXN0264,2026-01-10,Marketing,Digital Ads Co,3372.6,Bank Transfer,Business marketing expense,Marketing
+TXN0265,2026-05-09,Marketing,Promo Studio,18106.63,UPI,Business marketing expense,Finance
+TXN0266,2026-03-22,Travel,Hotel Central,17672.52,UPI,Business travel expense,Operations
+TXN0267,2026-03-15,Marketing,Promo Studio,13351.14,Cash,Business marketing expense,Administration
+TXN0268,2026-08-08,Meals,Restaurant One,344.97,Bank Transfer,Business meal expense,Finance
+TXN0269,2026-04-22,Software,CloudSoft,7901.87,Cash,Business software subscription,Finance
+TXN0270,2026-07-06,Software,Dev Tools Inc,11457.42,Cash,Business software subscription,IT
+TXN0271,2026-08-21,Office Supplies,XYZ Stationery,1325.08,Card,Routine office supplies,IT
+TXN0272,2026-04-24,Travel,Metro Cabs,7942.59,Cash,Business travel expense,Sales
+TXN0273,2026-01-08,Marketing,PrintWorks,6156.16,Cash,Business marketing expense,IT
+TXN0274,2026-09-09,Software,Productivity Apps,15718.53,UPI,Business software subscription,Sales
+TXN0275,2026-06-12,Office Supplies,Paper Point,3297.88,Cash,Routine office supplies,Marketing
+TXN0276,2026-08-16,Travel,Metro Cabs,11473.51,UPI,Business travel expense,IT
+TXN0277,2026-03-25,Equipment,Hardware Hub,24467.89,Cash,Business equipment purchase,Sales
+TXN0278,2026-04-12,Travel,City Flights,10349.28,Cash,Business travel expense,Administration
+TXN0279,2026-02-23,Maintenance,Facility Care,6604.0,Card,Routine maintenance expense,Administration
+TXN0280,2026-06-08,Office Supplies,Paper Point,976.11,UPI,Routine office supplies,Administration
+TXN0281,2026-07-27,Marketing,PrintWorks,21166.64,Bank Transfer,Business marketing expense,Marketing
+TXN0282,2026-05-04,Equipment,IT Solutions,30753.3,Bank Transfer,Business equipment purchase,Marketing
+TXN0283,2026-08-15,Software,Dev Tools Inc,3384.36,Cash,Business software subscription,Finance
+TXN0284,2026-09-26,Travel,ABC Travels,9994.96,Card,Business travel expense,IT
+TXN0285,2026-08-26,Travel,City Flights,6923.75,Bank Transfer,Business travel expense,Operations
+TXN0286,2026-01-15,Utilities,City Water,13561.64,Cash,Monthly business utility expense,Administration
+TXN0287,2026-07-24,Maintenance,Repair Works,11742.67,UPI,Routine maintenance expense,Sales
+TXN0288,2026-08-05,Travel,Hotel Central,10832.36,Card,Business travel expense,Finance
+TXN0289,2026-09-28,Travel,Metro Cabs,7021.65,UPI,Business travel expense,Finance
+TXN0290,2026-03-25,Utilities,NetConnect,8072.78,Cash,Monthly business utility expense,Finance
+TXN0291,2026-09-24,Meals,Cafe Business,1519.27,UPI,Business meal expense,Marketing
+TXN0292,2026-03-21,Equipment,TechWorld,24910.01,Card,Business equipment purchase,Finance
+TXN0293,2026-04-30,Meals,Restaurant One,2128.49,Bank Transfer,Business meal expense,Sales
+TXN0294,2026-08-10,Equipment,TechWorld,33586.9,Card,Business equipment purchase,Sales
+TXN0295,2026-02-03,Maintenance,Facility Care,11878.73,UPI,Routine maintenance expense,Marketing
+TXN0296,2026-07-02,Maintenance,Maintenance Pro,9130.72,UPI,Routine maintenance expense,Administration
+TXN0297,2026-06-26,Travel,Hotel Central,2666.38,Bank Transfer,Business travel expense,IT
+TXN0298,2026-07-25,Utilities,NetConnect,12040.01,Cash,Monthly business utility expense,Finance
+TXN0299,2026-04-28,Meals,Cafe Business,899.32,Card,Business meal expense,Operations
+TXN0300,2026-04-11,Marketing,Digital Ads Co,16352.82,Cash,Business marketing expense,Finance
+TXN0301,2026-01-02,Equipment,IT Solutions,7020.99,Cash,Business equipment purchase,Operations
+TXN0302,2026-06-12,Utilities,Power Company,11949.08,UPI,Monthly business utility expense,Sales
+TXN0303,2026-01-21,Equipment,TechWorld,34862.26,UPI,Business equipment purchase,Finance
+TXN0304,2026-04-30,Equipment,Office Systems,12121.19,Card,Business equipment purchase,Marketing
+TXN0305,2026-06-25,Meals,Food Court,2854.67,Card,Business meal expense,Sales
+TXN0306,2026-08-24,Maintenance,Facility Care,4014.28,UPI,Routine maintenance expense,Marketing
+TXN0307,2026-09-01,Marketing,Media House,8526.83,Cash,Business marketing expense,Operations
+TXN0308,2026-01-25,Equipment,TechWorld,24353.61,UPI,Business equipment purchase,IT
+TXN0309,2026-02-03,Utilities,Telecom Services,14869.37,Card,Monthly business utility expense,Operations
+TXN0310,2026-08-18,Meals,Restaurant One,1985.99,Bank Transfer,Business meal expense,Finance
+TXN0311,2026-06-08,Equipment,IT Solutions,33060.97,Card,Business equipment purchase,Administration
+TXN0312,2026-08-22,Equipment,Office Systems,34475.62,UPI,Business equipment purchase,Marketing
+TXN0313,2026-07-06,Office Supplies,OfficeMart,4851.13,Card,Routine office supplies,Operations
+TXN0314,2026-07-25,Utilities,NetConnect,5397.97,Cash,Monthly business utility expense,Operations
+TXN0315,2026-08-12,Travel,Metro Cabs,15767.49,Card,Business travel expense,Finance
+TXN0316,2026-05-31,Meals,Restaurant One,2057.57,Card,Business meal expense,Operations
+TXN0317,2026-08-25,Meals,Food Court,2531.63,UPI,Business meal expense,Sales
+TXN0318,2026-07-06,Travel,Metro Cabs,4901.16,Card,Business travel expense,Marketing
+TXN0319,2026-03-29,Equipment,TechWorld,18905.26,Bank Transfer,Business equipment purchase,Administration
+TXN0320,2026-07-22,Meals,Catering Plus,2608.84,Bank Transfer,Business meal expense,IT
+TXN0321,2026-04-11,Office Supplies,Tech Supplies,2869.82,Cash,Routine office supplies,Administration
+TXN0322,2026-07-14,Marketing,Promo Studio,21843.62,Card,Business marketing expense,Operations
+TXN0323,2026-07-18,Office Supplies,XYZ Stationery,1998.58,Cash,Routine office supplies,Administration
+TXN0324,2026-09-28,Travel,Metro Cabs,17627.1,Cash,Business travel expense,Administration
+TXN0325,2026-06-14,Travel,Metro Cabs,6781.69,Cash,Business travel expense,Administration
+TXN0326,2026-04-06,Meals,Food Court,1206.19,Card,Business meal expense,Administration
+TXN0327,2026-08-06,Office Supplies,Paper Point,565.15,Bank Transfer,Routine office supplies,Marketing
+TXN0328,2026-04-24,Equipment,IT Solutions,5072.06,UPI,Business equipment purchase,Administration
+TXN0329,2026-04-06,Office Supplies,Paper Point,1883.99,Card,Routine office supplies,Marketing
+TXN0330,2026-02-21,Marketing,PrintWorks,22420.74,Cash,Business marketing expense,Sales
+TXN0331,2026-04-23,Software,Dev Tools Inc,10623.75,UPI,Business software subscription,Administration
+TXN0332,2026-01-17,Software,Productivity Apps,16969.66,Bank Transfer,Business software subscription,Sales
+TXN0333,2026-09-15,Maintenance,Maintenance Pro,6233.92,Cash,Routine maintenance expense,Sales
+TXN0334,2026-08-15,Meals,Cafe Business,4337.7,Bank Transfer,Business meal expense,Finance
+TXN0335,2026-08-30,Travel,Hotel Central,12154.41,Bank Transfer,Business travel expense,Operations
+TXN0336,2026-04-18,Meals,Food Court,1348.92,UPI,Business meal expense,IT
+TXN0337,2026-03-05,Maintenance,Facility Care,8077.05,UPI,Routine maintenance expense,Marketing
+TXN0338,2026-04-22,Marketing,PrintWorks,15164.28,Cash,Business marketing expense,Sales
+TXN0339,2026-08-12,Maintenance,Facility Care,5250.61,UPI,Routine maintenance expense,Operations
+TXN0340,2026-07-04,Office Supplies,Paper Point,1244.98,Cash,Routine office supplies,Administration
+TXN0341,2026-07-05,Office Supplies,XYZ Stationery,2800.53,Card,Routine office supplies,Sales
+TXN0342,2026-08-05,Utilities,Telecom Services,6681.47,Card,Monthly business utility expense,Operations
+TXN0343,2026-03-22,Software,Dev Tools Inc,3010.83,Cash,Business software subscription,Administration
+TXN0344,2026-01-30,Maintenance,Facility Care,2424.43,Bank Transfer,Routine maintenance expense,Marketing
+TXN0345,2026-05-10,Software,Productivity Apps,17917.23,Card,Business software subscription,IT
+TXN0346,2026-04-10,Equipment,IT Solutions,8077.26,UPI,Business equipment purchase,Finance
+TXN0347,2026-08-24,Marketing,PrintWorks,24343.47,Cash,Business marketing expense,Operations
+TXN0348,2026-03-14,Travel,Hotel Central,4631.32,Card,Business travel expense,IT
+TXN0349,2026-02-17,Office Supplies,XYZ Stationery,4570.81,Bank Transfer,Routine office supplies,Administration
+TXN0350,2026-09-22,Maintenance,Repair Works,2960.73,Bank Transfer,Routine maintenance expense,Administration
+TXN0351,2026-08-13,Software,CloudSoft,4428.76,Bank Transfer,Business software subscription,Marketing
+TXN0352,2026-06-09,Maintenance,FixIt Services,8374.68,Cash,Routine maintenance expense,IT
+TXN0353,2026-04-24,Maintenance,FixIt Services,5474.54,Card,Routine maintenance expense,Administration
+TXN0354,2026-05-10,Utilities,City Water,15577.42,Card,Monthly business utility expense,IT
+TXN0355,2026-02-08,Office Supplies,Paper Point,305.62,UPI,Routine office supplies,Sales
+TXN0356,2026-01-20,Utilities,City Water,5385.19,Cash,Monthly business utility expense,Administration
+TXN0357,2026-09-11,Travel,Metro Cabs,15086.21,Cash,Business travel expense,Operations
+TXN0358,2026-09-06,Equipment,TechWorld,6627.39,Card,Business equipment purchase,Finance
+TXN0359,2026-07-15,Software,Productivity Apps,3569.01,Card,Business software subscription,Operations
+TXN0360,2026-04-28,Software,Productivity Apps,11491.87,UPI,Business software subscription,Marketing
+TXN0361,2026-01-08,Travel,ABC Travels,85000.0,Card,Unexpected high-value travel booking,Sales
+TXN0362,2026-07-31,Office Supplies,XYZ Stationery,42000.0,UPI,Unusually large office supplies purchase,Administration
+TXN0363,2026-01-09,Utilities,Power Company,78000.0,Bank Transfer,Unusually high utility payment,Operations
+TXN0364,2026-09-21,Marketing,Digital Ads Co,95000.0,Card,Unusually large advertising transaction,Marketing
+TXN0365,2026-08-03,Equipment,TechWorld,145000.0,Bank Transfer,High-value equipment purchase,IT
+TXN0366,2026-09-05,Meals,Restaurant One,32000.0,Card,Unusually large business meal expense,Sales
+TXN0367,2026-06-09,Software,CloudSoft,68000.0,Card,Unusually high software charge,IT
+TXN0368,2026-06-22,Maintenance,FixIt Services,55000.0,Bank Transfer,Unusually large maintenance expense,Operations
+TXN0369,2026-03-08,Travel,Metro Cabs,47000.0,UPI,Unusually high travel-related charge,Sales
+TXN0370,2026-06-21,Office Supplies,OfficeMart,38000.0,Card,Unusually large supplies expense,Administration
+TXN0371,2026-06-16,Utilities,NetConnect,51000.0,Bank Transfer,Unusually high connectivity expense,IT
+TXN0372,2026-02-19,Marketing,PrintWorks,62000.0,Card,Unusually large print marketing expense,Marketing
+TXN0373,2026-02-20,Equipment,Hardware Hub,120000.0,Bank Transfer,High-value hardware purchase,IT
+TXN0374,2026-06-19,Meals,Catering Plus,28000.0,UPI,Unusually large catering expense,Marketing
+TXN0375,2026-03-31,Software,Dev Tools Inc,46000.0,Card,Unusually high development software charge,IT
+TXN0376,2026-08-07,Maintenance,Repair Works,44000.0,Bank Transfer,Unusually high repair expense,Operations
+TXN0377,2026-07-12,Travel,Hotel Central,73000.0,Card,Unusually high accommodation expense,Sales
+TXN0378,2026-01-11,Office Supplies,Paper Point,31000.0,UPI,Unusually large paper supplies purchase,Administration
+TXN0379,2026-06-02,Marketing,Media House,88000.0,Bank Transfer,Unusually large media expense,Marketing
+TXN0380,2026-01-04,Equipment,Office Systems,99000.0,Card,High-value office equipment purchase,Administration
